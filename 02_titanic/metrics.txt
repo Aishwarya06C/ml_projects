@@ -1,0 +1,7 @@
+sex
+female    0.727468
+male      0.190985
+Name: survived, dtype: float64
+LogisticRegression: acc=0.809 f1=0.740
+RandomForest: acc=0.786 f1=0.720
+Saved results.png

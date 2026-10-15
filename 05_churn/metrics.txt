@@ -1,0 +1,14 @@
+Churn rate: 0.141
+LogisticRegression: ROC-AUC=0.870
+RandomForest: ROC-AUC=0.902
+GradientBoosting: ROC-AUC=0.916
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97       859
+           1       0.90      0.74      0.81       141
+
+    accuracy                           0.95      1000
+   macro avg       0.93      0.86      0.89      1000
+weighted avg       0.95      0.95      0.95      1000
+
+Saved results.png

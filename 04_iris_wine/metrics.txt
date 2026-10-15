@@ -1,0 +1,8 @@
+dataset        model  cv_accuracy   std
+   Iris          KNN        0.960 0.025
+   Iris          SVM        0.967 0.021
+   Iris DecisionTree        0.953 0.034
+   Wine          KNN        0.949 0.038
+   Wine          SVM        0.983 0.022
+   Wine DecisionTree        0.865 0.044
+Saved results.png

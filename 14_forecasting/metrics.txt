@@ -1,0 +1,3 @@
+SeasonalNaive(lag12): MAE=43.0 RMSE=47.2
+LinearRegression: MAE=15.1 RMSE=17.9
+RandomForest: MAE=31.2 RMSE=44.2

@@ -1,0 +1,9 @@
+Silhouette by k: {2: np.float64(0.44), 3: np.float64(0.493), 4: np.float64(0.509), 5: np.float64(0.555), 6: np.float64(0.51), 7: np.float64(0.472), 8: np.float64(0.422)} -> best k = 5
+          age  income  spending  size
+cluster                              
+0        29.5    83.2      87.1    59
+1        49.3    30.2      17.7    60
+2        39.5    55.2      50.1    61
+3        45.5    85.4      20.0    61
+4        24.7    23.6      79.7    59
+Saved results.png

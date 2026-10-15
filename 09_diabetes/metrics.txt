@@ -1,0 +1,12 @@
+preg      0
+plas      5
+pres     35
+skin    227
+insu    374
+mass     11
+pedi      0
+age       0
+dtype: int64
+LogisticRegression: cv=0.782 test_acc=0.708 f1=0.545 recall=0.500
+RandomForest: cv=0.766 test_acc=0.747 f1=0.614 recall=0.574
+SVM: cv=0.766 test_acc=0.740 f1=0.600 recall=0.556

@@ -1,0 +1,25 @@
+Kaggle files not found -> using 20newsgroups fallback
+PassiveAggressive
+                    precision    recall  f1-score   support
+
+     comp.graphics       0.93      0.93      0.93       195
+  rec.sport.hockey       0.96      0.89      0.92       200
+         sci.space       0.83      0.90      0.87       197
+talk.politics.misc       0.88      0.86      0.87       155
+
+          accuracy                           0.90       747
+         macro avg       0.90      0.90      0.90       747
+      weighted avg       0.90      0.90      0.90       747
+
+LogisticRegression
+                    precision    recall  f1-score   support
+
+     comp.graphics       0.95      0.94      0.95       195
+  rec.sport.hockey       0.96      0.90      0.93       200
+         sci.space       0.83      0.92      0.87       197
+talk.politics.misc       0.91      0.87      0.89       155
+
+          accuracy                           0.91       747
+         macro avg       0.91      0.91      0.91       747
+      weighted avg       0.91      0.91      0.91       747
+
